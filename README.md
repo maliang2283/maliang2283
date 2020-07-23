@@ -1,6 +1,1 @@
- _
-| |__ _ _ __ _
-| '_ \| | | |/ _` |
-| |_) | |_| | (_| |
-|_.__/ \__,_|\__, |
-             |___/ 该用户太懒什么也没留下
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
